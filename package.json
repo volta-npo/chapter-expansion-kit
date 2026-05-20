@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/47-chapter-expansion-kit.git"
+    "url": "git+https://github.com/volta-npo/chapter-expansion-kit.git"
   },
-  "homepage": "https://volta-npo.github.io/47-chapter-expansion-kit/",
+  "homepage": "https://volta-npo.github.io/chapter-expansion-kit/",
   "bugs": {
-    "url": "https://github.com/volta-npo/47-chapter-expansion-kit/issues"
+    "url": "https://github.com/volta-npo/chapter-expansion-kit/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
